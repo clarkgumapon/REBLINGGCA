@@ -156,9 +156,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Niel's Fitness Gym - [Your Contact Information]
-
-Project Link: [https://github.com/yourusername/niels-fitness-gym](https://github.com/yourusername/niels-fitness-gym)
+https://github.com/clarkgumapon/REBLINGGCA
 
 ## Acknowledgments
 
