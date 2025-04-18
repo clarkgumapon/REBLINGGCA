@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Niel's Fitness Gym Management System
 
 A modern, full-stack gym management system built with Next.js 13, featuring a responsive UI and comprehensive functionality for members, staff, and administrators.
@@ -165,3 +166,6 @@ Project Link: [https://github.com/yourusername/niels-fitness-gym](https://github
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Shadcn UI](https://ui.shadcn.com/)
 - [Recharts](https://recharts.org/) 
+=======
+# REBLINGGCA
+>>>>>>> 14ae89ed94eded5837439bad2718dca07a5b367d
